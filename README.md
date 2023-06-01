@@ -6,3 +6,7 @@
 ## html의 class를 react에서 만들 때는 className="" 형식으로 만든다.
 
 ![image](https://github.com/3dodam/react_basic/assets/129016953/8942c273-9c08-4fdd-8084-1cdafe9346d3)
+
+## 😧return문은 반드시 하나의 태그로 되어있어야 한다.
+
+![image](https://github.com/3dodam/react_basic/assets/129016953/92146597-091f-4723-9272-608575ca0594)
