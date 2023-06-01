@@ -14,5 +14,5 @@
 ## 함수 만들기
 ![image](https://github.com/3dodam/react_basic/assets/129016953/39318478-b579-4d00-9332-08768bfc373c)
 
-  ##화살표 함수로 변경
+  ## 화살표 함수로 변경
   ![image](https://github.com/3dodam/react_basic/assets/129016953/e432f9ba-726f-4a27-9235-0076872b71fc)
