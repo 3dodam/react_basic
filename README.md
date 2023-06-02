@@ -16,3 +16,17 @@
 
   ## 화살표 함수로 변경
   ![image](https://github.com/3dodam/react_basic/assets/129016953/e432f9ba-726f-4a27-9235-0076872b71fc)
+
+  ## 👆클릭하면 함수실행 (이벤트 핸들러 event handling)
+  매개변수를 실행하기 위해 onClick에 function문을 만들어 넣음
+  일반적으로 함수를 빼내어 밖에서 작성 후 사용한다.
+![image](https://github.com/3dodam/react_basic/assets/129016953/1d15f571-a7e4-494f-8c17-0144cd0a8396)
+![image](https://github.com/3dodam/react_basic/assets/129016953/58315b9e-b18b-4c5e-b11d-db5dda1ff004)
+  
+  ## console에는 숫자가 바뀌어지는데 화면에선 바뀌지 않는다.
+  ## react에서는 변수가 바뀐다해서 리렌더링이 일어나지 않는다.
+  (리렌더링이 일어날 시 더해진 number가 number로 들어가 number+2가 됨)
+  ==>해결책: 리렌더링이 일어나게 하려면 useState(react Hook)를 사용해야 한다.
+  ![image](https://github.com/3dodam/react_basic/assets/129016953/9a118cca-8e65-4847-a5e7-1e380acf2bd0)
+  ![image](https://github.com/3dodam/react_basic/assets/129016953/93e0bb4e-e3ac-43cc-8644-3b7848101726)
+
