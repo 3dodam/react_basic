@@ -27,6 +27,7 @@
   ## react에서는 변수가 바뀐다해서 리렌더링이 일어나지 않는다.
   (리렌더링이 일어날 시 더해진 number가 number로 들어가 number+2가 됨)
   ==>해결책: 리렌더링이 일어나게 하려면 useState(react Hook)를 사용해야 한다.
+  
   ![image](https://github.com/3dodam/react_basic/assets/129016953/9a118cca-8e65-4847-a5e7-1e380acf2bd0)
   ![image](https://github.com/3dodam/react_basic/assets/129016953/93e0bb4e-e3ac-43cc-8644-3b7848101726)
 
