@@ -35,7 +35,7 @@
 ## 🐹 children에 대한 설명 --#react3 폴더 참조
 
 ## 🤡 form에서는 onClick 대신 onSubmit 이벤트를 사용한다.
-
+![image](https://github.com/3dodam/react_basic/assets/129016953/eb8239c1-0fa2-4e67-b1ea-a73d252ccf5a)
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/508c6d21-2247-457c-b3b8-1849d05ae3d7)
 
 
