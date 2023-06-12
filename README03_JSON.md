@@ -1,4 +1,4 @@
-## 시작하기 
+## ▶시작하기 
 
 ### 터미널에 입력
 ![image](https://github.com/3dodam/react_basic/assets/129016953/d2c8bdff-3e98-460f-8200-7ecc8f777f3a)
@@ -12,3 +12,5 @@
 ### json 실행
 ![image](https://github.com/3dodam/react_basic/assets/129016953/e7d5a4ee-4fb4-4f50-9f34-a6aca3071206)
 
+### 위와 같이 실행하면 port 3000번을 사용하기 때문에 React와 중복됨
+#### 그래서 port를 변경해주어야함
