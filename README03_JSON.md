@@ -1,6 +1,6 @@
 ## ▶시작하기 
 
-### 터미널에 입력
+### 터미널에 JSON
 ![image](https://github.com/3dodam/react_basic/assets/129016953/d2c8bdff-3e98-460f-8200-7ecc8f777f3a)
 ![image](https://github.com/3dodam/react_basic/assets/129016953/72a778c4-57a6-433d-9811-4146e02ed46b)
 
@@ -17,3 +17,15 @@
 
       npx json-server --watch db.json --port 3004
    
+## 서버와 통신하기
+
+### 터미널에 npm axios
+![image](https://github.com/3dodam/react_basic/assets/129016953/006b3215-336b-4286-967d-f3231565cf1e)
+
+            npm i axios
+            
+### 내보내기
+![image](https://github.com/3dodam/react_basic/assets/129016953/bdd2d990-636b-494c-bfc6-9385901197dd)
+![image](https://github.com/3dodam/react_basic/assets/129016953/11ea01e9-3479-4061-a820-b654c41b8c7a)
+
+            import axios from 'axios';
